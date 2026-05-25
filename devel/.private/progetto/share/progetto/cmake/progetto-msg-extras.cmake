@@ -1,0 +1,2 @@
+set(progetto_MESSAGE_FILES "")
+set(progetto_SERVICE_FILES "/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/VoiceDetectionService.srv;/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/WakeUp.srv;/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/Rest.srv;/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/Text2Speech.srv;/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/StartAwareness.srv;/home/domenico/Scrivania/prova_ros/workspace/src/progetto/srv/StopAwareness.srv")

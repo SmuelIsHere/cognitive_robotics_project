@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/share/progetto/cmake/progetto-msg-paths.cmake

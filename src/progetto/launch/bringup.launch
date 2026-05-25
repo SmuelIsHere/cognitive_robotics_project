@@ -1,0 +1,29 @@
+<launch>
+    	<!-- Definizione parametri -->
+  	<arg name="nao_ip" default="$(optenv NAO_IP 10.0.1.230)" />
+  	<arg name="port" default="$(optenv PORT 9559)" />
+  	<arg name="mic_index" default="$(optenv MIC_INDEX 0)" />
+  	<param name="nao_ip" type="string" value="$(arg nao_ip)"/>
+  	<param name="port" type="string" value="$(arg port)"/>
+  	<param name="mic_index" type="int" value="$(arg mic_index)"/>
+	
+	
+	<!-- Launch delle funzionalità riguardanti pepper-->
+	<node pkg="progetto" type="image_input_node.py" name="image_input_node" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)"  output="screen"/>
+	<node pkg="progetto" type="camera_show_node.py" name="camera_show_node" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen"/>
+	<node pkg="progetto" type="face_detection.py" name="face_detection" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen"/>
+	<node pkg="progetto" type="wakeup_node.py" name="wakeup_node" required="false" args="--ip=$(arg nao_ip) --port=$(arg port)"  output="screen"/>
+	<node pkg="progetto" type="text2speech_node.py" name="text2speech_node" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen" />
+	
+	<node pkg="progetto" type="tts_client.py" name="tts_client" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen" />
+	<node pkg="progetto" type="basic_awareness_node.py" name="basic_awareness_node" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen" />
+	
+	<!-- Launch delle funzionalità riguardanti l'acquisizione audio -->
+	<node pkg="ros_audio_pkg" type="voice_detection.py" name="voice_detection" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen" />
+	<node pkg="ros_audio_pkg" type="asr.py" name="asr" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen" />
+	
+	<!-- Launch delle funzionalità riguardanti il chatbot -->
+	<node pkg="chatbot_pkg" type="chatbot.py" name="chatbot" required="true" args="--ip=$(arg nao_ip) --port=$(arg port)" output="screen"/>
+	
+	
+</launch>

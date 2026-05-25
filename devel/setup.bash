@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/catkin_tools_prebuild/setup.bash

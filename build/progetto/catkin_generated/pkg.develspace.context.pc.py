@@ -1,0 +1,8 @@
+# generated from catkin/cmake/template/pkg.context.pc.in
+CATKIN_PACKAGE_PREFIX = ""
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/include".split(';') if "/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/include" != "" else []
+PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
+PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
+PROJECT_NAME = "progetto"
+PROJECT_SPACE_DIR = "/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto"
+PROJECT_VERSION = "0.0.0"

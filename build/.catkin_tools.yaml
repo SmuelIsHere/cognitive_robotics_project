@@ -1,0 +1,6 @@
+devel_space: /home/domenico/Scrivania/prova_ros/workspace/devel
+install: false
+install_space: /home/domenico/Scrivania/prova_ros/workspace/install
+profile: default
+source_space: /home/domenico/Scrivania/prova_ros/workspace/src
+workspace: /home/domenico/Scrivania/prova_ros/workspace

@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="chatbot_pkg" type="chatbot.py" name="chatbot" output="screen"/>
+</launch>

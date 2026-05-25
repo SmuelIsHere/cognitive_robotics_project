@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/share/chatbot_pkg/cmake/chatbot_pkgConfig-version.cmake

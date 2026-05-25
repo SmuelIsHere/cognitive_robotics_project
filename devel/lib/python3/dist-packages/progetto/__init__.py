@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/lib/python3/dist-packages/progetto/__init__.py

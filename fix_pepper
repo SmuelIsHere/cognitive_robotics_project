@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sshpass -p asaggese ssh -o StrictHostKeyChecking=no nao@10.0.1.230 << EOF
+cd arianna/
+bash start_threads.bash
+EOF

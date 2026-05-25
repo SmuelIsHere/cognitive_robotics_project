@@ -1,0 +1,8 @@
+prefix=/home/domenico/Scrivania/prova_ros/workspace/install
+
+Name: progetto
+Description: Description of progetto
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

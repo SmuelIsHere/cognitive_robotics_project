@@ -1,0 +1,153 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 1,
+            "trajectory": [
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 2,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 0,
+            "trajectory": [
+                2,
+                4,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 3,
+            "gender": "Female",
+            "hat": 0,
+            "bag": 0,
+            "trajectory": [
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 4,
+            "gender": "Female",
+            "hat": 1,
+            "bag": 1,
+            "trajectory": [
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 5,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 1,
+            "trajectory": [
+                2,
+                4,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 6,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 1,
+            "trajectory": [
+                2,
+                4,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 7,
+            "gender": "Male",
+            "hat": 1,
+            "bag": 0,
+            "trajectory": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 8,
+            "gender": "Male",
+            "hat": 1,
+            "bag": 0,
+            "trajectory": [
+                2,
+                4,
+                3,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 9,
+            "gender": "Male",
+            "hat": 1,
+            "bag": 1,
+            "trajectory": [
+                2,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 10,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 0,
+            "trajectory": [
+                2,
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 11,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 0,
+            "trajectory": [
+                1,
+                4,
+                3
+            ]
+        },
+        {
+            "id": 12,
+            "gender": "Male",
+            "hat": 0,
+            "bag": 0,
+            "trajectory": [
+                1
+            ]
+        },
+        {
+            "id": 13,
+            "gender": "Male",
+            "hat": 1,
+            "bag": 0,
+            "trajectory": [
+                2,
+                3
+            ]
+        }
+       
+    ]
+}

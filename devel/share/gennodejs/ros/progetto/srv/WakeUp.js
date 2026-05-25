@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/share/gennodejs/ros/progetto/srv/WakeUp.js

@@ -1,0 +1,5 @@
+chatbot_pkg
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/cmake.lock /home/domenico/Scrivania/prova_ros/workspace/devel/./cmake.lock
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/share/chatbot_pkg/cmake/chatbot_pkgConfig.cmake /home/domenico/Scrivania/prova_ros/workspace/devel/share/chatbot_pkg/cmake/chatbot_pkgConfig.cmake
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/share/chatbot_pkg/cmake/chatbot_pkgConfig-version.cmake /home/domenico/Scrivania/prova_ros/workspace/devel/share/chatbot_pkg/cmake/chatbot_pkgConfig-version.cmake
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/lib/pkgconfig/chatbot_pkg.pc /home/domenico/Scrivania/prova_ros/workspace/devel/lib/pkgconfig/chatbot_pkg.pc

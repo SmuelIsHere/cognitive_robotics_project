@@ -1,0 +1,1 @@
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/progetto/share/roseus/ros/progetto/srv/StartAwareness.l

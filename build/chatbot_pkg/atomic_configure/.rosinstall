@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/domenico/Scrivania/prova_ros/workspace/devel/.private/chatbot_pkg/setup.sh

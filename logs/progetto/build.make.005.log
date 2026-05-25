@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _progetto_generate_messages_check_deps_StopAwareness
+[  0%] Built target _progetto_generate_messages_check_deps_WakeUp
+[  0%] Built target _progetto_generate_messages_check_deps_Text2Speech
+[  0%] Built target _progetto_generate_messages_check_deps_VoiceDetectionService
+[  0%] Built target _progetto_generate_messages_check_deps_Rest
+[  0%] Built target _progetto_generate_messages_check_deps_StartAwareness
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 18%] Built target progetto_generate_messages_nodejs
+[ 18%] Built target std_msgs_generate_messages_cpp
+[ 40%] Built target progetto_generate_messages_py
+[ 59%] Built target progetto_generate_messages_lisp
+[ 78%] Built target progetto_generate_messages_cpp
+[100%] Built target progetto_generate_messages_eus
+[100%] Built target progetto_generate_messages

@@ -1,0 +1,5 @@
+ros_audio_pkg
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/ros_audio_pkg/cmake.lock /home/domenico/Scrivania/prova_ros/workspace/devel/./cmake.lock
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/ros_audio_pkg/share/ros_audio_pkg/cmake/ros_audio_pkgConfig.cmake /home/domenico/Scrivania/prova_ros/workspace/devel/share/ros_audio_pkg/cmake/ros_audio_pkgConfig.cmake
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/ros_audio_pkg/share/ros_audio_pkg/cmake/ros_audio_pkgConfig-version.cmake /home/domenico/Scrivania/prova_ros/workspace/devel/share/ros_audio_pkg/cmake/ros_audio_pkgConfig-version.cmake
+/home/domenico/Scrivania/prova_ros/workspace/devel/.private/ros_audio_pkg/lib/pkgconfig/ros_audio_pkg.pc /home/domenico/Scrivania/prova_ros/workspace/devel/lib/pkgconfig/ros_audio_pkg.pc

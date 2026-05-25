@@ -1,0 +1,118 @@
+{
+    "AFS": {
+        "1": 0.895,
+        "2": 0.594,
+        "3": 0.787,
+        "4": 0.513,
+        "5": 0.8,
+        "6": 0.882,
+        "7": 0.725,
+        "8": 0.862,
+        "9": 0.667,
+        "10": 0.751,
+        "12": 0.729,
+        "13": 0.562,
+        "14": 0.662,
+        "15": 0.488
+    },
+    "ranking_position": {
+        "1": 1,
+        "2": 6,
+        "3": 8,
+        "4": 5,
+        "5": 3,
+        "6": 10,
+        "7": 12,
+        "8": 7,
+        "9": 9,
+        "10": 14,
+        "11": 2,
+        "12": 13,
+        "13": 4,
+        "14": 15
+    },
+    "group_members": {
+        "1": [
+            "Antonio Sessa",
+            "Angelo Molinario",
+            "Pietro Martano",
+            "Massimiliano Ranauro"
+        ],
+        "2": [
+            "Marco Magliulo",
+            "Maximilian Marius Moraru",
+            "Valentina Carmen Schirò",
+            "Christian Romano"
+        ],
+        "3": [
+            "Marco Martelli",
+            "Andrea Marino",
+            "Alberto Marmo",
+            "Alessandro Pasquale"
+        ],
+        "4": [
+            "Agostino Cardamone",
+            "Viktor Yanchev Dobrev",
+            "Chiara Ferraioli",
+            "Asja Antonucci"
+        ],
+        "5": [
+            "Nunzio Del Gaudio",
+            "Christian Salvatore De Angelis",
+            "Carmine Aliberti",
+            "Giovanni Casella"
+        ],
+        "6": [
+            "Andrea Alberti",
+            "Carmine Attianese",
+            "Vincenzo Capaldo",
+            "Paolo Esposito"
+        ],
+        "7": [
+            "Michele Martino",
+            "Benito Senese",
+            "Giovanni Ommeniello",
+            "Emanuele Alfonso Nicolò"
+        ],
+        "8": [
+            "Valentina Micera",
+            "Raffaele Sbardella",
+            "Ciro Setolino",
+            "Jacopo Volpe"
+        ],
+        "9": [
+            "Bianca Oltean",
+            "Miruna Oltean",
+            "Quentin Lebourg",
+            "Alexandre Engel"
+        ],
+        "10": [
+            "Giovanni Lamb",
+            "Egidio Zottarelli",
+            "Fabrizio Saturnino",
+            "Palma Orlando"
+        ],
+        "12": [
+            "Andrea Rescigno",
+            "Pietro Zappullo",
+            "Pasquale Petti",
+            "Mattia Lamberti"
+        ],
+        "13": [
+            "Antonio Russomando",
+            "Luca Memoli",
+            "Raffaele Solimeno"
+        ],
+        "14": [
+            "Giuseppe Marotta",
+            "Davide Tramice",
+            "Vincent Zaza"
+        ],
+        "15": [
+            "Samuel Prugno Siniscalschi",
+            "Domenico Nappo",
+            "Gaetano Parolise",
+            "Miriam Valentino"
+        ]
+    }
+}
