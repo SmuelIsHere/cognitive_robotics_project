@@ -28,7 +28,7 @@ To run this project, you will need:
 
 Follow these steps to set up the ROS workspace and launch the system:
 
-
+```bash
 # 1. Install dependencies
 bash install_reqs.bash
 
